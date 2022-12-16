@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Praveen22042005
-- 👀 I’m interested in developing web applications
+- 👀 I’m interested in developing web applications, animations and Graphic Design
 - 🌱 I’m currently learning B.E.CSE(Cyber Security)
 - 💞️ I’m looking to collaborate with app developers
 - 📫 How to reach me bvpraveenvignesh2005@gmail.com
