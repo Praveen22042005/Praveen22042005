@@ -26,10 +26,10 @@ Passionate about this world — it’s as simple as learning something new today
 Here are some of my projects:
 
 1. **[StartNet]** - A Networking Platform Designed to Connect Startups and Investors, Built During Techpreneur Hackathon 2025.
-   - [Link to repository: https://github.com/Praveen22042005/StartNet]
+   - [Live demo: https://startnet-web.vercel.app]
 
 2. **[PinPal]** - A Chrome Extension for Storing Unlimited Page Shortcuts and Access Sites 10x Faster.
-   - [Link to repository: https://github.com/Praveen22042005/PinPal-README]
+   - [Live product: https://chromewebstore.google.com/detail/pin-pal/jcijjhagnmfocfhdeojadibbmndplibm]
 
 3. **[AcadSmart]** - An Academic Management System Designed to Streamline the Process of Managing and Showcasing Faculty Publications.
    - [Link to repository: https://github.com/Praveen22042005/AcadSmart-README]
