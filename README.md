@@ -4,7 +4,7 @@ Passionate about this world — it’s as simple as learning something new today
 
 ## 👨‍💻 About Me
 
-- 🔭 Intrigued by Entrepreneurship, Technology, Design, and Innovation.
+- 🔭 Intrigued by Entrepreneurship, Technology, Innovation and Design.
 - 🎓 Currently studying B.E CSE (Cyber Security) - 2026 Batch.
 - 🌍 Saveetha Engineering College, Chennai.
 
