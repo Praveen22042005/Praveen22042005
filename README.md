@@ -10,10 +10,15 @@ Passionate about this world — it’s as simple as learning something new today
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: HTML, CSS, JavaScript, TypeScript, C, Java
-- **Frameworks**: React, Next.js, Node.js, Express, Tailwind CSS
-- **Tools**: GitHub, Azure, Azure AI Studio, Firebase
-- **Other Skills**: MongoDB (Database management), Cloud platforms (Azure, Firebase)
+- **Programming Languages**: JavaScript, TypeScript, Java, Python, C.  
+- **Frontend**: HTML, CSS, React.js, Next.js, Tailwind CSS, Wix.  
+- **Backend**: Node.js, Express.js, Firebase, Supabase, Spring Boot.  
+- **Databases**: MongoDB, Firestore, PostgreSQL.  
+- **Cloud Platforms**: Azure, Azure OpenAI, AWS, Vercel, GCP, Firebase Console.  
+- **DevOps & CI/CD**: GitHub Actions, Azure Pipelines.  
+- **Design Tools**: Figma, Blender, Photoshop, Canva.  
+- **Development Tools**: VS Code, IntelliJ, GitHub, Postman.  
+- **Others**: MS Office, Zapier, Make.com, Chrome APIs, REST APIs, 0Auth2.
 
 ## 📊 GitHub Stats
 
