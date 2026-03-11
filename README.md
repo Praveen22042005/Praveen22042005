@@ -20,17 +20,17 @@
 
 ---
 
-## About Me
+## About Me 👨‍💻
 
 Full-Stack Developer with hands-on experience building and shipping production SaaS platforms, Chrome extensions, and AI-integrated web apps. Comfortable across the entire stack — from Next.js/React frontends to Node.js/Express APIs, cloud deployments on Azure/GCP/Vercel, and LLM integrations via Azure AI and NVIDIA NIM.
 
-- 🎓 **B.E CSE (Cyber Security)** — Saveetha Engineering College, Chennai · 2022–2026
-- 🛠 Shipped multiple full-stack products independently, from architecture to production deployment
-- 🤝 Open to full-time roles, internships, and open-source collaboration
+- **B.E CSE (Cyber Security)** — Saveetha Engineering College, Chennai · 2022–2026
+- Shipped multiple full-stack products independently, from architecture to production deployment
+- Open to full-time roles, internships, and collaborations
 
 ---
 
-## 🚧 Currently Shipping
+## Currently Shipping 🚀
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ Full-Stack Developer with hands-on experience building and shipping production S
 
 ### StudentOS - Saas
 
-[![Live](https://img.shields.io/badge/Live-studentos.tech-00D9FF?style=flat&logo=google-chrome&logoColor=white)](https://www.studentos.tech/)
+[![Live](https://img.shields.io/badge/Live-studentos.tech-31d100?style=flat&logo=google-chrome&logoColor=white)](https://www.studentos.tech/)
 [![Product Hunt](https://img.shields.io/badge/Product_Hunt-Featured-FF6154?style=flat&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/studentos-3)
 
 SaaS platform that aggregates and tracks institutional student benefits (174 benefits, 100+ providers, $212,000+ value in free tools and software). Core features: user benefit state (claimed / available / expiring), real-time ROI tracker, and a curated benefit directory across developer tools, cloud credits, and creative software.
@@ -55,7 +55,7 @@ SaaS platform that aggregates and tracks institutional student benefits (174 ben
 
 ### Pin Pal — Chrome Extension
 
-[![Live](https://img.shields.io/badge/Live-pinpal.praveenbv.me-00D9FF?style=flat&logo=google-chrome&logoColor=white)](https://pinpal.praveenbv.me/)
+[![Live](https://img.shields.io/badge/Live-pinpal.praveenbv.me-31d100?style=flat&logo=google-chrome&logoColor=white)](https://pinpal.praveenbv.me/)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/pin-pal/jcijjhagnmfocfhdeojadibbmndplibm)
 
 Chrome Extension (Manifest V3) that replaces the new tab page with a shortcut dashboard. Built with React + Vite compiled to a static extension bundle. All data persisted locally via `chrome.storage.local` — no backend, no auth, no data collection.
@@ -73,11 +73,13 @@ Chrome Extension (Manifest V3) that replaces the new tab page with a shortcut da
 
 ---
 
-## 🚀 Shipped Products
+## Shipped Products ✅
 
 ### LearnSphere — Role-Based eLearning Platform
 
-🏆 Odoo × SNS Hackathon 2026 · [Repo](https://github.com/Praveen22042005/learnsphere-odoo-hackathon-2026.git)
+🏆 Odoo × SNS Hackathon 2026
+
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=flat&logo=github&logoColor=white)](https://github.com/Praveen22042005/learnsphere-odoo-hackathon-2026.git)
 
 Multi-role eLearning platform (student / instructor / admin) with Supabase Row-Level Security enforcing access boundaries per role. Gamification layer tracks XP and completion milestones. Clerk handles session management and JWT issuance; Next.js 15 App Router for SSR and route-based code splitting.
 
@@ -87,7 +89,9 @@ Multi-role eLearning platform (student / instructor / admin) with Supabase Row-L
 
 ### StartNet — Startup–Investor Matching Platform
 
-🏆 Techpreneur Hackathon 2025 · [Live Demo](https://startnet-web.vercel.app)
+🏆 Techpreneur Hackathon 2025
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-31d100?style=flat&logo=google-chrome&logoColor=white)](https://startnet-web.vercel.app)
 
 Full-stack platform with an AI-driven startup risk assessment pipeline (LLM-scored across traction, market, team) and a matching engine that ranks investor–startup fit by sector and stage. Media uploads via Azure Blob Storage with SAS tokens. Stateless REST API with JWT auth; MongoDB for document storage.
 
@@ -97,7 +101,7 @@ Full-stack platform with an AI-driven startup risk assessment pipeline (LLM-scor
 
 ### AcadSmart — Academic Publication Tracker
 
-[Repo](https://github.com/Praveen22042005/AcadSmart-Web)
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=flat&logo=github&logoColor=white)](https://github.com/Praveen22042005/AcadSmart-Web)
 
 Server-side scraping and aggregation of Google Scholar profiles to compute h-index and i10-index per faculty member. Stores snapshots in MongoDB for trend analysis. REST API serves per-faculty and per-department analytics; React frontend renders citation graphs and shareable profile pages.
 
@@ -107,7 +111,7 @@ Server-side scraping and aggregation of Google Scholar profiles to compute h-ind
 
 ### Elementro — UI Component Builder
 
-[Live Demo](https://elementro.dev/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-31d100?style=flat&logo=google-chrome&logoColor=white)](https://elementro.dev/)
 
 Elementro is a web-based UI toolkit for generating production-ready React components with a visual workflow. It provides real-time prop/style customization, live code preview, and one-click export of clean `.tsx` files for direct integration into existing projects.
 
@@ -144,7 +148,7 @@ Elementro is a web-based UI toolkit for generating production-ready React compon
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Praveen22042005&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen22042005&theme=radical" alt="GitHub Profile Details" />
 </div>
 
 <div align="center">
