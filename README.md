@@ -144,7 +144,7 @@ Elementro is a web-based UI toolkit for generating production-ready React compon
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveen22042005&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveen22042005&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen22042005&layout=compact&langs_count=8&theme=radical&hide_border=false&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -156,7 +156,7 @@ Elementro is a web-based UI toolkit for generating production-ready React compon
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveen22042005&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveen22042005&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ---
