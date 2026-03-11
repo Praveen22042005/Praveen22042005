@@ -1,151 +1,162 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Praveen+%F0%9F%91%8B;Building+products+that+matter;Entrepreneur+%7C+Developer+%7C+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Praveen+BV;Full-Stack+Developer+%7C+Product+Builder;Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+Cloud" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Praveen22042005&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/praveen-bv-918830250/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bvpraveenvignesh2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://chromewebstore.google.com/detail/pin-pal/jcijjhagnmfocfhdeojadibbmndplibm">
-    <img src="https://img.shields.io/badge/PinPal-Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PinPal Chrome Store" />
-  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-bv-918830250/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvpraveenvignesh2005@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.praveenbv.me/)
+[![Book](https://img.shields.io/badge/My_Book-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://amzn.in/d/03tTk8u8)
+[![Resume](https://img.shields.io/badge/Download_Resume-PDF-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.praveenbv.me/documents/Resume-Praveen-BV.pdf)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Passionate about this world — it's as simple as learning something new today that I didn't know yesterday. I'm a **builder, innovator, and entrepreneur** who loves turning ideas into impactful products.
+Full-Stack Developer with hands-on experience building and shipping production SaaS platforms, Chrome extensions, and AI-integrated web apps. Comfortable across the entire stack — from Next.js/React frontends to Node.js/Express APIs, cloud deployments on Azure/GCP/Vercel, and LLM integrations via Azure AI and NVIDIA NIM.
 
-- 🔭 **Currently Building**: [PinPal](https://chromewebstore.google.com/detail/pin-pal/jcijjhagnmfocfhdeojadibbmndplibm)
-- 🎓 **Education**: B.E CSE (Cyber Security) — Saveetha Engineering College, Chennai | Class of 2026
-- 🌍 **Interests**: Entrepreneurship · Technology · Innovation · Design
-- 🚀 **Shipped products** used by real users, deployed at scale
+- 🎓 **B.E CSE (Cyber Security)** — Saveetha Engineering College, Chennai · 2022–2026
+- 🛠 Shipped multiple full-stack products independently, from architecture to production deployment
+- 🤝 Open to full-time roles, internships, and open-source collaboration
 
 ---
 
-## 🚧 Currently Building
+## 🚧 Currently Shipping
 
-### 🔖 PinPal — Chrome Extension
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> *Access your favorite sites 10x faster with unlimited shortcuts*
+### StudentOS - Saas
 
-A powerful Chrome Extension for storing unlimited page shortcuts, featuring customizable new tab pages, plan-based tiers (Free / Basic / Pro), Google Apps integration, AI tools access, and custom backgrounds.
+[![Live](https://img.shields.io/badge/Live-studentos.tech-00D9FF?style=flat&logo=google-chrome&logoColor=white)](https://www.studentos.tech/)
+[![Product Hunt](https://img.shields.io/badge/Product_Hunt-Featured-FF6154?style=flat&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/studentos-3)
 
-🛒 **[View on Chrome Web Store](https://chromewebstore.google.com/detail/pin-pal/jcijjhagnmfocfhdeojadibbmndplibm)**
+SaaS platform that aggregates and tracks institutional student benefits (174 benefits, 100+ providers, $212,000+ value in free tools and software). Core features: user benefit state (claimed / available / expiring), real-time ROI tracker, and a curated benefit directory across developer tools, cloud credits, and creative software.
 
-**Tech Stack:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat&logo=google-chrome&logoColor=white)
+- Auth via Supabase with clerk
+- SSR with Next.js App Router; Tailwind + shadcn/ui
+- Product analytics with PostHog; monitoring with Sentry
+- Transactional email flows with Resend
+
+**Stack:** Next.js · TypeScript · Clerk · Supabase · PostHog · Sentry · Resend · Tailwind CSS · Vercel
+
+</td>
+<td width="50%" valign="top">
+
+### Pin Pal — Chrome Extension
+
+[![Live](https://img.shields.io/badge/Live-pinpal.praveenbv.me-00D9FF?style=flat&logo=google-chrome&logoColor=white)](https://pinpal.praveenbv.me/)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/pin-pal/jcijjhagnmfocfhdeojadibbmndplibm)
+
+Chrome Extension (Manifest V3) that replaces the new tab page with a shortcut dashboard. Built with React + Vite compiled to a static extension bundle. All data persisted locally via `chrome.storage.local` — no backend, no auth, no data collection.
+
+- Drag-and-drop reordering via HTML5 drag API
+- Category management with sidebar filtering
+- Custom wallpaper via `FileReader` API
+- Import/Export shortcuts as JSON
+
+**Stack:** React · TypeScript · Vite · Chrome Extension APIs (MV3)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Shipped Products
 
-### 🌐 StartNet — Startup × Investor Networking Platform
+### LearnSphere — Role-Based eLearning Platform
 
-> *AI-powered platform connecting entrepreneurs with investors* · 🏆 Techpreneur Hackathon 2025 · 🔗 [Live Demo](https://startnet-web.vercel.app)
+🏆 Odoo × SNS Hackathon 2026 · [Repo](https://github.com/Praveen22042005/learnsphere-odoo-hackathon-2026.git)
 
-Open-source platform with AI-driven risk assessment, intelligent startup-investor matching, Azure Blob Storage, and secure JWT authentication.
+Multi-role eLearning platform (student / instructor / admin) with Supabase Row-Level Security enforcing access boundaries per role. Gamification layer tracks XP and completion milestones. Clerk handles session management and JWT issuance; Next.js 15 App Router for SSR and route-based code splitting.
 
-**Tech Stack:**
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Blob-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+**Stack:** Next.js 15 · TypeScript · Supabase (RLS) · Clerk · Tailwind CSS
 
 ---
 
-### 📚 AcadSmart — Academic Publication Management System
+### StartNet — Startup–Investor Matching Platform
 
-> *Revolutionizing how universities track and showcase faculty research* · 🔗 [Repo](https://github.com/Praveen22042005/AcadSmart-Web)
+🏆 Techpreneur Hackathon 2025 · [Live Demo](https://startnet-web.vercel.app)
 
-Automated Google Scholar integration, real-time citation tracking (h-index, i10-index), shareable faculty profiles, and university-wide analytics dashboards.
+Full-stack platform with an AI-driven startup risk assessment pipeline (LLM-scored across traction, market, team) and a matching engine that ranks investor–startup fit by sector and stage. Media uploads via Azure Blob Storage with SAS tokens. Stateless REST API with JWT auth; MongoDB for document storage.
 
-**Tech Stack:**
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**Stack:** Next.js 14 · TypeScript · Node.js · Express · MongoDB · Azure Blob Storage · Vercel
 
 ---
 
-### 🤖 SEC-GPT — College AI Chatbot
+### AcadSmart — Academic Publication Tracker
 
-> *Instant AI-powered answers for Saveetha Engineering College* · 🔗 [Live Demo](https://sec-gpt-app-hhc8chbzfmfnfwhk.southindia-01.azurewebsites.net/)
+[Repo](https://github.com/Praveen22042005/AcadSmart-Web)
 
-Handles admissions, courses, facilities, and campus queries with markdown rendering, quick reply suggestions, and conversation export.
+Server-side scraping and aggregation of Google Scholar profiles to compute h-index and i10-index per faculty member. Stores snapshots in MongoDB for trend analysis. REST API serves per-faculty and per-department analytics; React frontend renders citation graphs and shareable profile pages.
 
-**Tech Stack:**
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**Stack:** React · Node.js · Express · MongoDB · Tailwind CSS
 
 ---
 
-### 🎓 PlaceMate — Campus Placement Management
+### Elementro — UI Component Builder
 
-> *End-to-end automation for campus recruitment* · 🔗 [Repo](https://github.com/Praveen22042005/placemate)
+[Live Demo](https://elementro.dev/)
 
-Role-based platform with intelligent eligibility matching, real-time application tracking, and analytics for students, TPOs, and companies.
+Elementro is a web-based UI toolkit for generating production-ready React components with a visual workflow. It provides real-time prop/style customization, live code preview, and one-click export of clean `.tsx` files for direct integration into existing projects.
 
-**Tech Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
----
-
-## 🗂️ Previous Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| ⚙️ **StackFlow** | AI-powered tech stack generator — describe your idea and get instant recommendations | React · Node · OpenAI |
-| 🌿 **EcoRouteAI** | Sustainable logistics optimizer with 0.989 R² score on delivery route predictions | Python · scikit-learn · IBM Cloud |
-| 📖 **LearnSphere** | Role-based eLearning platform with gamification — Odoo × SNS Hackathon 2026 | Next.js 15 · Supabase · Clerk |
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages** · ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-**Frontend** · ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend** · ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-
-**Databases** · ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-**Cloud & Tools** · ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+| Category           | Technologies                                                               |
+| ------------------ | -------------------------------------------------------------------------- |
+| **Languages**      | JavaScript · TypeScript · Java · Python · C                                |
+| **Frontend**       | React · Next.js · Tailwind CSS · HTML5 · CSS3                              |
+| **Backend**        | Node.js · Express.js · Clerk (auth/session)                                |
+| **Database**       | MongoDB · Supabase (PostgreSQL + RLS)                                      |
+| **DevOps & Cloud** | Azure · GCP · Firebase · Vercel · Render · GitHub Actions                  |
+| **AI / LLM**       | Azure AI · NVIDIA NIM · Google Vertex AI · Google AI Studio                |
+| **Dev Tools**      | VS Code · Cursor · GitHub Copilot · Antigravity · Postman · Linear · Figma |
+| **Other**          | Chrome Extension APIs (MV3) · GitHub Spark · SEO · Email Marketing         |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveen22042005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen22042005&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/Praveen22042005?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Praveen22042005/Praveen22042005?style=for-the-badge&logo=github&label=Profile%20Repo%20Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/Praveen22042005/Praveen22042005?style=for-the-badge&logo=github&label=Profile%20Repo%20Last%20Update" alt="Profile Last Commit" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Praveen22042005&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveen22042005&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praveen22042005&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Praveen22042005&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen22042005&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveen22042005&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <i>⚡ "The best way to predict the future is to build it."</i><br><br>
   <i>Last updated: March 2026</i>
 </div>
